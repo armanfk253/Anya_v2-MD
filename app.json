@@ -57,7 +57,7 @@
          },
          "MongoDB": {
             "description": "Enter your mongodb connection url",
-            "required": false
+            "required": true
          },
          "SESSION_ID": {
             "description": "MzZp_AN_YA_MXp_AN_YA_laGo=",
