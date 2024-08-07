@@ -60,8 +60,9 @@
             "required": true
          },
          "SESSION_ID": {
-            "description": "Enter your session id",
+            "description": "MzZp_AN_YA_MXp_AN_YA_laGo=",
             "required": true
+             "value":"MzZp_AN_YA_MXp_AN_YA_laGo=",
          }
     },
     "formation": {
